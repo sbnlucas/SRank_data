@@ -25,7 +25,7 @@ These datasets are intended to be used with the **SRank** web application to per
 
 1.  Access the app at: [srankweb.streamlit.app](https://srankweb.streamlit.app/).
 2.  Upload the desired file (`juniors` or `seniors`).
-3.  Follow the interactive steps to generate the optimal global ranking and the **Residual Graphs**.
+3.  Follow the interactive steps to generate the optimal global ranking.
 
 ---
 
